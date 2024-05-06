@@ -30,3 +30,4 @@ C:\Users\Tjomm\source\AvonovaVacation\obj\Debug\net8.0\refint\AvonovaVacation.dl
 C:\Users\Tjomm\source\AvonovaVacation\obj\Debug\net8.0\AvonovaVacation.pdb
 C:\Users\Tjomm\source\AvonovaVacation\obj\Debug\net8.0\AvonovaVacation.genruntimeconfig.cache
 C:\Users\Tjomm\source\AvonovaVacation\obj\Debug\net8.0\ref\AvonovaVacation.dll
+C:\Users\Tjomm\source\AvonovaVacation\obj\Debug\net8.0\AvonovaVacation.sourcelink.json

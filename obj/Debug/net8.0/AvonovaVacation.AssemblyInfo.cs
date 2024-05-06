@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AvonovaVacation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c16761bb6b352e55cdff955a22d5e13239a54665")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2616c1e52a1a300ca7b0f98cad944de2c6496a9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AvonovaVacation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AvonovaVacation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
